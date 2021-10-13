@@ -1,2 +1,2 @@
 # hello-world
-A repository
+I like lamp
